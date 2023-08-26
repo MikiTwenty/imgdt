@@ -1,4 +1,4 @@
-# tools.py
+# __init__.py
 # Copyright (C) 2023 Michele Ventimiglia (michele.ventimiglia01@gmail.com)
 #
 # This module is part of ImageDatasetTools and is released under
