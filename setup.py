@@ -44,7 +44,7 @@ def build_py_modules(basedir: str, excludes: Sequence = ()) -> Sequence:
 setup(
     name = "imgdt",
     version = VERSION,
-    description = "ImageDatasetTools is a Python library used to setup a dataset of images",
+    description = "imgdt is a Python package that provide tools to convert and process images of a dataset",
     author = "Michele Ventimiglia",
     author_email = "michele.ventimiglia01@gmail.com",
     license = "MIT",
